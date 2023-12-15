@@ -14,3 +14,8 @@
 - tensorflow
 - opencv
 - openpose
+
+## _How to_
+src 폴더의 test_code 폴더 안에 있는 파일들은 이미지를 넣어 돌릴 수 있는 코드입니다.
+src 폴더의 code 폴더 안에 있는 파일들을 영상을 넣어 돌릴 수 있는 코드입니다.
+src 폴더의 model 폴더에는 COCO 기반의 openpose 모델이 들어있습니다. 코드를 돌리려면 model의 경로를 수정해주세요.
