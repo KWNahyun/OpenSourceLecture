@@ -18,4 +18,5 @@
 ## _How to_
 src 폴더의 test_code 폴더 안에 있는 파일들은 이미지를 넣어 돌릴 수 있는 코드입니다.
 src 폴더의 code 폴더 안에 있는 파일들을 영상을 넣어 돌릴 수 있는 코드입니다.
-src 폴더의 model 폴더에는 COCO 기반의 openpose 모델이 들어있습니다. 코드를 돌리려면 model의 경로를 수정해주세요.
+코드를 실행하는 데에 필요한 COCO 기반의 cnn 모델은 OpenPose 깃허브에서 다운받을 수 있습니다. 
+(https://github.com/CMU-Perceptual-Computing-Lab/openpose)
